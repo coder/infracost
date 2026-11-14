@@ -1,6 +1,6 @@
 module github.com/infracost/infracost
 
-go 1.18
+go 1.24
 
 require (
 	github.com/Masterminds/goutils v1.1.1 // indirect
@@ -191,7 +191,7 @@ require (
 	github.com/hashicorp/go-uuid v1.0.3
 	github.com/hashicorp/go-version v1.6.0
 	github.com/iancoleman/orderedmap v0.2.0 // indirect
-	github.com/klauspost/compress v1.13.6 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/mitchellh/go-testing-interface v1.14.1 // indirect
 	github.com/open-policy-agent/opa v0.43.0
 	github.com/otiai10/copy v1.7.0
